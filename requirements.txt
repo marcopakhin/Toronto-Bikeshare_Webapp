@@ -1,2 +1,2 @@
 streamlit
-folium
+folium==0.18.0
