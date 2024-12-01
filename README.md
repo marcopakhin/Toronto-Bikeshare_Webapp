@@ -1,11 +1,10 @@
-# Toronto_Bikeshare_Webapp
-An intuitive and interactive Streamlit web app designed for Toronto BikeShare users. Easily locate the closest bike stations for returning or renting bikes, tailored to your specific constraints and preferences.
+An intuitive and interactive Streamlit web app crafted for Toronto BikeShare users. Effortlessly locate the nearest bike stations for returning or renting bikes, tailored to your specific constraints and preferences.
+
+Deployed Version: [Toronto BikeShare Web App](https://toronto-bikeshare-webapp.streamlit.app/)
 
 Key Features:
-- Real-Time Location Finder: Identify the nearest bike stations based on your current location.
+Real-Time Location Finder: Instantly identify the nearest bike stations based on your current location.
 
-- Customizable Filters: Set personalized constraints such as bike availability, station amenities, and more.
+Customizable Filters: Personalize your search with constraints such as bike availability, station amenities, and more.
 
-- Route Planning: Get the best route from your current position to the chosen bike station with estimated travel time and distance.
-
-- User Feedback: Share your experience and report any issues directly through the app.
+Route Planning: Discover the best route from your current position to the chosen bike station with estimated travel time and distance.
