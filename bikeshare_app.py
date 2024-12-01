@@ -72,7 +72,7 @@ with st.sidebar:
         input_city = st.text_input("City", "Toronto")
         input_country = st.text_input("Country", "Canada")
 
-        input_driving = st.checkbox("I'm driving there.") # return true/false
+        # input_driving = st.checkbox("I'm driving there.") # return true/false
 
         # go time
         findbike = st.button("Find me a bike!", type = "primary")
